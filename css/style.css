@@ -76,7 +76,7 @@ header .logo {
 .jumbotron {
 	width: 100%;
 	min-height: 450px;
-	background: url('/ressource/architecture-buildings-city-185662.jpg') center center;
+	background: url('co-incidence-landing-page/ressource/architecture-buildings-city-185662.jpg') center center;
 	background-size: cover;
 	opacity: 1;
 	display: table;
